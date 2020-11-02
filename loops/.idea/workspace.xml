@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="833cb673-75b2-4620-a5c0-0858b5f0e960" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/loop1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_del/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/loop_sum/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ifelse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ifelse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../projectline/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../projectline/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +40,33 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_sum.Main" />
+      <module name="loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_sum.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loop_del.Main" />
+      <module name="loops" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="loop_del.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="loop1.Main" />
       <module name="loops" />
@@ -52,6 +82,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -82,29 +114,33 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1164" height="279" key="GridCell.Tab.0.bottom" timestamp="1602060813949">
+    <state x="1092" y="284" key="FileChooserDialogImpl" timestamp="1603196476415">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1164" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602060813949" />
-    <state width="1164" height="279" key="GridCell.Tab.0.center" timestamp="1602060813949">
+    <state x="1092" y="284" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603196476415" />
+    <state width="1164" height="279" key="GridCell.Tab.0.bottom" timestamp="1604321796437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1164" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602060813949" />
-    <state width="1164" height="279" key="GridCell.Tab.0.left" timestamp="1602060813949">
+    <state width="1164" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604321796437" />
+    <state width="1164" height="279" key="GridCell.Tab.0.center" timestamp="1604321796437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1164" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602060813949" />
-    <state width="1164" height="279" key="GridCell.Tab.0.right" timestamp="1602060813949">
+    <state width="1164" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604321796437" />
+    <state width="1164" height="279" key="GridCell.Tab.0.left" timestamp="1604321796437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1164" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602060813949" />
-    <state x="1158" y="240" key="RollbackChangesDialog" timestamp="1602060162422">
+    <state width="1164" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604321796437" />
+    <state width="1164" height="279" key="GridCell.Tab.0.right" timestamp="1604321796437">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1158" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602060162422" />
-    <state x="1008" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1602057612176">
+    <state width="1164" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604321796437" />
+    <state x="1158" y="240" key="RollbackChangesDialog" timestamp="1604318558791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1008" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1602057612176" />
+    <state x="1158" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604318558791" />
+    <state x="1008" y="353" key="com.intellij.ide.util.TipDialog" timestamp="1604318314175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1008" y="353" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604318314175" />
   </component>
 </project>
